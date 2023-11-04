@@ -13,6 +13,7 @@ Features:
 - PWM audio output (a challenge outside the oscilloscope functionality)
 
 Changelog:
+
 Version 1.2 - Advanced I/O
 - Added PWM audio output
 - Optimized ADC through DMA use
